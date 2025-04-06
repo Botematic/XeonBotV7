@@ -10,18 +10,18 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['923470027813'] //ur owner number
-global.ownernomer = "923470027813" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
+global.owner = ['2349133855094'] //ur owner number
+global.ownernomer = "2349133855094" //ur owner number2
+global.ownername = "Pere♍" //ur owner name
 global.ytname = "YT: xIKRATOSx" //ur yt chanel name
 global.socialm = "GitHub: xIKRATOSx" //ur github or insta name
 global.location = "Pakistan, Punjab, Gujranwala" //ur location
 
 //new
-global.botname = "Cheems Bot MD V7"
-global.ownernumber = '923470027813'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["923470027813@s.whatsapp.net"]
+global.botname = "Pere bot"
+global.ownernumber = '2349133855094'
+global.ownername = 'Pere♍'
+global.ownerNumber = ["2349133855094@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@xIKRATOSx"
 global.websitex = "https://youtube.com/@xIKRATOSx"
 global.wagc = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
